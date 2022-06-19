@@ -20,9 +20,12 @@ The best model for the second phase was of the Random Forest Classifier with a t
 # FUTURE SCOPE
 After the aforementioned step, I also plan to apply Deep Learning techniques like developing Artificial Neural Networks for better prediction results.
 
-# Kaggle link : https://www.kaggle.com/c/home-credit-default-risk/data
+### Kaggle link :
+https://www.kaggle.com/c/home-credit-default-risk/data
 
-# Link for the dataset : https://drive.google.com/file/d/1FQtWnD2wZY7lmyQ0KtBKt3lLsYqBB_KF/view?usp=sharing
+### Link for the dataset : 
+https://drive.google.com/file/d/1FQtWnD2wZY7lmyQ0KtBKt3lLsYqBB_KF/view?usp=sharing
 
-# Link to my medium article on HCDR : https://medium.com/@shefaliluley/home-credit-default-risk-20015c69543f
+### Link to my medium article on HCDR : 
+https://medium.com/@shefaliluley/home-credit-default-risk-20015c69543f
 
